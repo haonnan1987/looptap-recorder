@@ -16,11 +16,7 @@ LoopTap 是一个 Windows 本地网页录音工具，专注于一件事：快速
 
 ## 在线网页版
 
-在线使用：
-
-```text
-https://haonnan1987.github.io/looptap-recorder/
-```
+在线使用：[打开 LoopTap Web](https://haonnan1987.github.io/looptap-recorder/)
 
 网页版基于浏览器的屏幕/标签页共享音频能力。开始录制后，需要在浏览器弹窗里选择包含声音的标签页、窗口或屏幕，并勾选共享音频。
 
