@@ -1,0 +1,23 @@
+[project]
+name = "looptap-recorder"
+version = "0.1.0"
+description = "A local web UI for lossless Windows system audio recording via WASAPI loopback."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [
+  { name = "haonnan1987" }
+]
+dependencies = [
+  "flask>=3.0",
+  "numpy>=2.0",
+  "soundcard>=0.4.3",
+  "soundfile>=0.12.1"
+]
+
+[project.urls]
+Homepage = "https://github.com/haonnan1987/looptap-recorder"
+Issues = "https://github.com/haonnan1987/looptap-recorder/issues"
+
+[tool.pyinstaller]
+name = "LoopTap"
